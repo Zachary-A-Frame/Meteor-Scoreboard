@@ -5,7 +5,7 @@ First Meteor Application utilizing numerous Meteor packages as well as some thir
 Install Meteor with $ curl https://install.meteor.com/ | sh 
 
 ### To run
-From the terminal, $ meteor run --release 1.8.1
+From the terminal, $ meteor run
 
 #### To view database from terminal
 use $ meteor mongo --release 1.8.1
